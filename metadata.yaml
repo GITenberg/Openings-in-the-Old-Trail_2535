@@ -1,0 +1,33 @@
+_repo: Openings-in-the-Old-Trail_2535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: ''
+gutenberg_issued: '2006-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'California -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: A Mercury of the foot-hills -- Colonel Starbottle for the plaintiff
+  -- The landlord of the Big Flume Hotel -- A Buckeye Hollow inheritance -- The reincarnation
+  of Smith -- Lanty Foster's mistake -- An Ali Baba of the Sierras -- Miss Peggy's
+  protégés -- The goddess of Excelsior.
+title: Openings in the Old Trail
+url: http://www.gutenberg.org/ebooks/2535
